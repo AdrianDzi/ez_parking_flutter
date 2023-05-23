@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>487268686665-kqmb1sb6rsn2dnrdpeplriqg6ql5khr4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.487268686665-kqmb1sb6rsn2dnrdpeplriqg6ql5khr4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>487268686665-ffh6rckvhqrjns72nvuk148hbq0kiu39.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCYIAWvtGn0UDWA_FSECDu3tA0lCj_o5yk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>487268686665</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.ezParking</string>
+	<key>PROJECT_ID</key>
+	<string>parkingapp-556b3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>parkingapp-556b3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:487268686665:ios:48b651a819cc492a8cd898</string>
+</dict>
+</plist>
